@@ -1,6 +1,8 @@
 # Sudoku-Command-Line
-The program will display the solution of the world's hardest sudoku.
+Program to solve any Sudoku Puzzle.
 
-I did not take input from user because the main aim of this program was to solve the world's hardest sudoku.
+The program does not take input from user but the question is directly included in the code.
 
-But this program can solve any possible sudoku(that is valid). It uses brute force technique.
+The question mentioned by default is the world's hardest sudoku   ~Source : Internet
+
+The  program has the capability to solve any possible sudoku(that is valid). It uses brute force technique.
